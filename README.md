@@ -1,2 +1,2 @@
 # Tools
-Just commiting some random tools far random purposes
+Just commiting some random tools for random purposes
