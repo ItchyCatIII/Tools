@@ -24,7 +24,7 @@ int main () {
     cout << "Unable to open file";
     return 1;
   } 
-  
+ 
   string content;
   while (myfile >> noskipws >> character)
   {
